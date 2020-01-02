@@ -5,7 +5,7 @@ def load_library(file)
   emoticon_hash = Hash.new
 end
 
-  emoticon_hash["get_e"]
+  emoticon_hash["get_emoticon"]
 
 def get_japanese_emoticon
   # code goes here
