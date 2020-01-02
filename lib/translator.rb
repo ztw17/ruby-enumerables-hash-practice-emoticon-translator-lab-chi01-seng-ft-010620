@@ -5,6 +5,8 @@ def load_library(file)
   emoticon_hash = Hash.new
 end
 
+
+
 def get_japanese_emoticon
   # code goes here
 end
