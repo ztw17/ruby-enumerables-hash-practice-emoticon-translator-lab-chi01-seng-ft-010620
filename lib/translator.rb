@@ -12,9 +12,8 @@ def load_library(file)
      emoticon_hash["get_meaning"][emoticon_set.last] = english_word
    end
 
-    emoticon_hash
-
-  end		 end
+  emoticon_hash
+end
 
 def get_japanese_emoticon
   # code goes here
